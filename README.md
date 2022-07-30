@@ -4,8 +4,8 @@
 <br><br>
 <div>
   <a href="https://github.com/GutembergSouza">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GutembergSouza&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutembergSouza&amp;layout=compact&amp;langs_count=7&amp;theme=dark" style="max-width: 100%;">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GutembergSouza&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">  
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutembergSouza&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
 
 </div><br><br>
 
