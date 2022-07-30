@@ -1,6 +1,6 @@
 ## Olá! eu sou Gutemberg Souza👋
-<br><br>
-## Sou estudante de Análise e Desenvolvimentod de Sistemas na Faculdade Estácio de Sá 
+<br>
+### :mortar_board: Sou estudante de Análise e Desenvolvimentod de Sistemas na Faculdade Estácio de Sá 
 <br><br>
 <div>
   <a href="https://github.com/GutembergSouza">
