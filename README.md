@@ -1,5 +1,7 @@
 ## Olá! eu sou Gutemberg Souza👋
 <br><br>
+## Sou estudante de Análise e Desenvolvimentod de Sistemas na Faculdade Estácio de Sá 
+<br><br>
 <div>
   <a href="https://github.com/GutembergSouza">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GutembergSouza&amp;show_icons=true&amp;theme=dark&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">  
