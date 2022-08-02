@@ -1,7 +1,7 @@
 ## Olá! eu sou Gutemberg Souza👋
 <br>
-:mortar_board: Sou estudante de Análise e Desenvolvimentod de Sistemas na Faculdade Estácio de Sá 
-<br> Atualmente sou entregador e tenho conciliado minha rotina de trabalho com a rotina de estudos buscando me tornar melhor dia após dia!
+:mortar_board: Sou estudante do curso tecnólogo Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Sá, além de estudar Inglês 
+<br> Atualmente trabalho como entregador e tenho conciliado minha rotina de trabalho com a rotina de estudos buscando me tornar melhor dia após dia!
 <br><br>
 <div>
   <a href="https://github.com/GutembergSouza">
