@@ -1,34 +1,48 @@
-## Olá! eu sou Gutemberg Souza👋
-<br>
-:mortar_board: Sou estudante do curso tecnólogo Análise e Desenvolvimento de Sistemas na Faculdade Estácio de Sá, além de estudar Inglês 
-<br> Atualmente trabalho como entregador e tenho conciliado minha rotina de trabalho com a rotina de estudos buscando me tornar melhor dia após dia!
-<br><br>
-<div>
-  <a href="https://github.com/GutembergSouza">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=GutembergSouza&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true" style="max-width: 100%;">  
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GutembergSouza&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
+# 👋 Olá! Eu sou Gutemberg
 
-</div><br><br>
+Sou desenvolvedor backend em constante aprendizado, apaixonado por tecnologia, boas práticas de código e arquitetura de software.  
+Atualmente, estou focado em construir APIs REST com **Java**, **Spring Boot** e **MySQL**, aplicando padrões modernos como **DTO**, **validações com Jakarta Validation**, **migrations com Flyway**, e **segurança com Spring Security**.
 
+---
 
-<div align="center" valign="top"> 
-  <img align="center" alt="Js" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Html5" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
-  <img align="center" alt="CSS3" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />          
-  <img align="center" alt="Java" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="SpringBoot" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img align="center" alt="Git" height="40" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
-  <br><br>
+## 🚀 O que estou aprendendo
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/GutembergSouza/GutembergSouza/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  <br><br>
+- 🔹 Desenvolvimento de APIs REST com **Spring Boot**
+- 🔹 **Autenticação e Autorização** com JWT e Spring Security
+- 🔹 **Boas práticas de arquitetura** (Camadas, DDD, SOLID)
+- 🔹 **Testes automatizados** com JUnit e Mockito
+- 🔹 **Documentação de APIs** com Swagger/OpenAPI
+- 🔹 **Versionamento de banco de dados** com Flyway
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
+---
+
+## 💡 Sobre mim
+
+- 💻 Gosto de entender como as coisas funcionam “por baixo dos panos” e sempre busco escrever código limpo, bem estruturado e de fácil manutenção.  
+- 📚 Estou sempre estudando e evoluindo — cada projeto é uma oportunidade de aplicar novos conceitos e refatorar o que já aprendi.
+- 
+---
+
+## 🧰 Tecnologias e Ferramentas
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Lombok](https://img.shields.io/badge/Lombok-A61F23?style=for-the-badge&logoColor=white)
+
+---
+
+## 📈 Atualmente
+
+🧩 Desenvolvendo o projeto **VollMed API**, uma API REST para gestão de agendamentos médicos, aplicando:  
+- Autenticação stateless  
+- Controle de acesso com JWT  
+- Paginação e validação de dados  
+- Estrutura de camadas por domínio  
+
+---
+
