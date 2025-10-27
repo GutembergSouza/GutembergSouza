@@ -38,7 +38,7 @@ Atualmente, estou focado em construir APIs REST com **Java**, **Spring Boot** e 
 
 ## 📈 Atualmente
 
-🧩 Desenvolvendo o projeto **VollMed API**, uma API REST para gestão de agendamentos médicos, aplicando:  
+🧩 Desenvolvendo o projeto **[VollMed API](https://github.com/GutembergSouza/API-REST-CLINICA-MEDICA)**, uma API REST para gestão de agendamentos médicos, aplicando:  
 - Autenticação stateless  
 - Controle de acesso com JWT  
 - Paginação e validação de dados  
